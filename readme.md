@@ -1,6 +1,7 @@
-## Project 1: SimCity
+# **Project 1: SimCity**
 
 The following Assignment has been completed. Need help? please email me: **[codewithkim1@gmail.com](mailto:codewithkim1@gmail.com.com)**
+ or whatsapp me on +254710203466
 
 
 
